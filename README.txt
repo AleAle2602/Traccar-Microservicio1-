@@ -1,0 +1,1 @@
+Hola, este es el repositorio. Porfa hay que trabajar en la rama second, una vez que este aprobada la corrección/modificación procedemos a publicarla en la rama principal que se llama master. No toquen la rama respaldo.
